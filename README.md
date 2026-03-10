@@ -72,15 +72,12 @@ city-hospital-data-preprocessing
 * Data preprocessing pipeline
 * Exploratory visualizations and insights
 
-## Authors
+# Authors
 
-Carolina Arez
+Carolina Arez  
+Henrique Madureira  
+Miguel Melo  
+Noa Penas  
 
-Henrique Madureira 
-
-Miguel Melo
-
-Noa Penas 
-
-Bachelors’ in Data Science
+Bachelor in Data Science  
 NOVA IMS – Information Management School
